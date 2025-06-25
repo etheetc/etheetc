@@ -1,8 +1,8 @@
-### Hello 👋
+# Hello 👋
 
 ## My name is Andrei Timofeev
 
-# I am a frontend developer
+### I am a frontend developer
 
 <!--
 **etheetc/etheetc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
